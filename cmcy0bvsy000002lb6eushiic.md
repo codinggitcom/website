@@ -10,10 +10,6 @@ tags: website, tutorials, astro
 
 ---
 
-Here's a full-length article based on your outline. It's clear, focused, and structured for developers getting started with Astro:
-
----
-
 # Getting Started with Astro: A Beginner's Guide to Building Fast, Modern Websites
 
 ## Introduction
